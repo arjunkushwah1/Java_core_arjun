@@ -1,0 +1,15 @@
+
+
+# But NOT this one
+!/src/collection_worksheet_2/
+
+# Ignore build/compiled files
+/out/
+*.class
+
+# Ignore IDE folders
+.idea/
+*.iml
+.DS_Store
+
+

@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Cat Sound:");
         myCat.makeSound();  // Calls Cat's makeSound()
 
-        System.out.println("\nDog Sound:");
-        myDog.makeSound();  // Calls Dog's makeSound()
+//        System.out.println("\nDog Sound:");
+//        myDog.makeSound();  // Calls Dog's makeSound()
     }
 }
