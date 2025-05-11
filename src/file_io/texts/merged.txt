@@ -1,0 +1,27 @@
+=== backup.txt ===
+hello my name is : joker
+
+why so serious!!!
+
+=== notes.txt ===
+This is my first file in Java.
+
+=== paragraph.txt ===
+   java  hello , java is cool language , java support se and ee both . java is roubst.
+
+=== source.txt ===
+hello my name is : joker
+
+why so serious!!!
+
+=== log.txt ===
+
+Last updated on 2025-05-09
+Last updated on 2025-05-09
+
+=== data.txt ===
+hello world
+my name is abc
+zz
+cc
+
